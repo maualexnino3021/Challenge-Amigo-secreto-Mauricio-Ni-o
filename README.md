@@ -15,10 +15,12 @@ Tabla de Contenidos:
   
 Instalación:
 1. Clona este repositorio en tu máquina local:
-![git bash abrir proyecto](https://github.com/user-attachments/assets/28bf85b3-d523-4e2c-b7de-a5707d903fd7)
-2. Navega al directorio del proyecto:
 ![git bash clonar repositorio para correr en equipo](https://github.com/user-attachments/assets/b59f279f-d681-4551-93d6-d554bcfc49c8)
-3. Abre el archivo index.html en tu navegador favorito.
+
+3. Navega al directorio del proyecto:
+![git bash abrir proyecto](https://github.com/user-attachments/assets/28bf85b3-d523-4e2c-b7de-a5707d903fd7)
+
+5. Abre el archivo index.html en tu navegador favorito.
 
 Uso:
 1. Ingresa el nombre de un amigo en el campo de texto.
