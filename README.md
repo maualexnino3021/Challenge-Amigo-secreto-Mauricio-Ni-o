@@ -4,7 +4,6 @@ Proyecto Amigo Secreto
 Este proyecto es una aplicación web que permite gestionar y realizar el sorteo del tradicional juego del Amigo Secreto. Los usuarios pueden agregar nombres de amigos a una lista y realizar el sorteo para encontrar al amigo secreto. Este proyecto es perfecto para cualquier reunión social donde quieras hacer un sorteo divertido.
 
 Tabla de Contenidos:
-- Instalación.
 - Uso.
 - Dependencias.
 - Funcionalidades.
@@ -13,15 +12,6 @@ Tabla de Contenidos:
 - Contribuciones.
 - Nota adicional.
   
-Instalación:
-1. Clona este repositorio en tu máquina local:
-![git bash clonar repositorio para correr en equipo](https://github.com/user-attachments/assets/b59f279f-d681-4551-93d6-d554bcfc49c8)
-
-3. Navega al directorio del proyecto:
-![git bash abrir proyecto](https://github.com/user-attachments/assets/28bf85b3-d523-4e2c-b7de-a5707d903fd7)
-
-5. Abre el archivo index.html en tu navegador favorito.
-
 Uso:
 1. Ingresa el nombre de un amigo en el campo de texto.
 2. Haz clic en el botón "Agregar Amigo" para añadirlo a la lista.
