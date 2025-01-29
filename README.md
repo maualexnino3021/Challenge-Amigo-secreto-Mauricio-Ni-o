@@ -1,7 +1,7 @@
 # Challenge-Amigo-secreto-Mauricio-Ni-o
 
 Proyecto Amigo Secreto
-Este proyecto es una aplicación web que permite gestionar y realizar el sorteo del tradicional juego del Amigo Secreto. Los usuarios pueden agregar nombres de amigos a una lista y realizar el sorteo para encontrar al amigo secreto. Este proyecto es perfecto para cualquier reunión social donde quieras hacer un sorteo divertido.
+Este challenge es una aplicación web que permite gestionar y realizar el sorteo del tradicional juego del Amigo Secreto. Los usuarios pueden agregar nombres de amigos a una lista y realizar el sorteo para encontrar al amigo secreto. Este proyecto es perfecto para cualquier reunión social donde quieras hacer un sorteo divertido.
 
 Tabla de Contenidos:
 - Uso.
