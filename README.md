@@ -43,7 +43,7 @@ Posibles Problemas:
 
 Capturas de Pantalla:
 
-1. Alerta cuando le da click sin aladir ningún bombre:
+1. Alerta cuando se intenta añadir nombre sin digitar ninguno:
 ![Alerta  carga vacia](https://github.com/user-attachments/assets/279daf54-e400-491c-a00a-d7bbd2bba34c)
 
 2. Cuando el programa le arroja el nombre del amigo secreto una vez digitados todos los nombres, la caja de texto se limpia:
@@ -55,7 +55,7 @@ Capturas de Pantalla:
 4. Limpieza automática de la casilla de texto al aceptar la alerta para continuar con el uso del programa:
 ![Limpieza automática en la casilla de digitar el nombre al clickear aceptar en la alerta](https://github.com/user-attachments/assets/907866f3-dcf3-46bc-ba28-b9c6de7f60d3)
 
-5. Alerta cuando el usuario desea carga un nombre previamente ya proporcionado al programa:
+5. Alerta cuando el usuario desea cargar un nombre previamente ya proporcionado al programa:
 ![Alerta carga duplicada](https://github.com/user-attachments/assets/6f6845a2-7bde-422f-89ac-1bb8f34e248d)
 
 Contribuciones:
