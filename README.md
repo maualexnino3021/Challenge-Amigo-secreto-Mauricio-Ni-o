@@ -56,9 +56,11 @@ Capturas de Pantalla
 ![Alerta carga duplicada](https://github.com/user-attachments/assets/6f6845a2-7bde-422f-89ac-1bb8f34e248d)
 
 Contribuciones
+
 Las contribuciones son bienvenidas. Si deseas contribuir, por favor realiza un fork del repositorio y envía un pull request con tus cambios.
 
 Nota Adicional
+
 Este código fue diseñado aplicando predominantemente el contenido de los cursos de Lógica de Programación y Github de la plataforma de Alura Latam disponibles para enero de 2025
 
 
