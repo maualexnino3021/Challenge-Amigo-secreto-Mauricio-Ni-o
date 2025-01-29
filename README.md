@@ -47,12 +47,13 @@ Capturas de Pantalla
 2. Cuando el programa le arroja el nombre del amigo secreto una vez digitados todos los nombres, la caja de texto se limpia:
 ![Resultado y limpieza de la caja de texto](https://github.com/user-attachments/assets/5f89019a-5fe2-453b-b1e4-1cc73175dae6)
 
-3. Visualización de consula en el navedador activándolo con Ctlr+Shift+I, desde el inicio al fin del funcionamiento del programa:
+3. Visualización de cónsola en el navedador activándolo con Ctlr+Shift+I, desde el inicio al fin del funcionamiento del programa:
 ![Consola durante la corrida del programa](https://github.com/user-attachments/assets/4a42d519-8078-4dcf-a5ef-e7c5428b2be3)
 
-4. Limpieza automática de la casilla de texto al aceptar la alerta para continuar con el uso del program:
+4. Limpieza automática de la casilla de texto al aceptar la alerta para continuar con el uso del programa:
 ![Limpieza automática en la casilla de digitar el nombre al clickear aceptar en la alerta](https://github.com/user-attachments/assets/907866f3-dcf3-46bc-ba28-b9c6de7f60d3)
 
+5. Alerta cuando el usuario desea carga un nombre previamente ya proporcionado al programa:
 ![Alerta carga duplicada](https://github.com/user-attachments/assets/6f6845a2-7bde-422f-89ac-1bb8f34e248d)
 
 Contribuciones
